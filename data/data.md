@@ -1,0 +1,1 @@
+Data is obtained in the code using Huggingface's datasets library. There is no physical data. Please find a preview of how the data looks at this link https://huggingface.co/datasets/lighteval/MATH

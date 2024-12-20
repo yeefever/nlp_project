@@ -1,0 +1,3 @@
+Given the structure of how our project works, there is no easy or direct way to get the exact prediction easily because we are doing memory intensive computations and predictions with LLMs on a large dataset (on multiple A100 GPUs). To view a sample of the gold standard/benchmark test dataset answers, pleae view them here: https://huggingface.co/datasets/lighteval/MATH.
+
+To see our model's predictions, it will require running the scripts with detailed instructions in the code/ folder, but again, this will require GPU calculations. Example outputs can be found in our report.
